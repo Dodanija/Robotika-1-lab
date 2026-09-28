@@ -9,3 +9,5 @@ How to Use:
 5. Move the object past the second ultrasonic sensor.
 6. After the object moves more than 100 cm away from the second sensor, the barrier closes.
 7. When the barrier is fully closed, the red LED turns on again.
+
+Example Demo: https://youtu.be/VCPpetjaknw
